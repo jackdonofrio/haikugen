@@ -76,7 +76,10 @@
         "tie",
         "sky",
         "lunch",
-        "hide"
+        "hide",
+        "me",
+        "day",
+        "wolf"
     ],
     "2":
         ["yellow",
@@ -131,7 +134,12 @@
         "moonlight",
         "spotlight",
         "stopwatch",
-        "python"
+        "python",
+        "silver",
+        "thursday",
+        "about",
+        "tuesday",
+        "again"
         ],
         "3":[
             "cucumber",
@@ -160,7 +168,11 @@
             "develop",
             "counteract",
             "piano",
-            "chocolate"
+            "chocolate",
+            "fireboard",
+            "family",
+            "orange",
+            "banana"
         ],
         "4":[
             "memorial",
