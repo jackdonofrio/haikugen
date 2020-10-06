@@ -71,7 +71,8 @@
         "map",
         "club",
         "dart",
-        "clip"],
+        "clip",
+       "you"],
     "2":
         ["yellow",
         "purple",
@@ -125,7 +126,9 @@
         "moonlight",
         "spotlight",
         "stopwatch",
-        "python"
+        "python",
+         "special",
+         "else"
         ],
         "3":[
             "cucumber",
@@ -171,10 +174,12 @@
             "impossible",
             "invisible",
             "February",
-            "watermelon"
+            "watermelon",
+            "calculation"
         ],
         "5":[
             "acrimonious",
+            "appendectomy"
             "biological",
             "congratulations",
             "diagonally",
@@ -215,7 +220,10 @@
             "constitutionally",
             "religiosity",
             "octogenarian",
-            "megalomaniac"
+            "megalomaniac",
+            "Circumnavigation",
+            "octogenarian"
+            
         ],
         "7":
         [
@@ -229,6 +237,8 @@
             "homosexuality",
             "antidiscrimination",
             "meteorological",
-            "telecommunication"
+            "telecommunication",
+            
+            
         ]
 }
