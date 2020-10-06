@@ -3,4 +3,4 @@ Python script that generates original haikus following the 5/7/5 syllable patter
 
 ## Contributing
 You can contribute by adding words to words.json.<br>
-Please make sure they are under the correct syllable category.
+Please make sure they are under the correct syllable category. Words must be between 1-7 syllables.
