@@ -1,6 +1,6 @@
 {
     "1": 
-       ["hi",
+        ["hi",
         "two", 
         "one",
         "three",
@@ -71,7 +71,13 @@
         "map",
         "club",
         "dart",
-        "clip"],
+        "clip",
+        "lie",
+        "tie",
+        "sky",
+        "lunch",
+        "hide"
+    ],
     "2":
         ["yellow",
         "purple",
@@ -150,7 +156,11 @@
             "October",
             "November",
             "December",
-            "cantaloupe"
+            "cantaloupe",
+            "develop",
+            "counteract",
+            "piano",
+            "chocolate"
         ],
         "4":[
             "memorial",
@@ -246,16 +256,15 @@
             "antidiscrimination",
             "meteorological",
             "telecommunication",
-             "Editorializing",
-             "Heterogeneity",
-             "Infinitesimally",
-             "Intercolonization",
-             "Irrefutability",
-             "Irreversibility",
-             "Manoeuvrability",
-             "Megalomaniacal",
-             "Oversimplification",
+            "Editorializing",
+            "Heterogeneity",
+            "Infinitesimally",
+            "Intercolonization",
+            "Irrefutability",
+            "Irreversibility",
+            "Manoeuvrability",
+            "Megalomaniacal",
+            "Oversimplification",
             "Proletarianism"
-        ]
-         
+        ]   
 }
