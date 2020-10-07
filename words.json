@@ -84,7 +84,7 @@
 		"golf",
 		"stop",
 		"jump",
-        "joy"
+		"joy"
 	],
 	"2": ["yellow",
 		"purple",
@@ -147,9 +147,9 @@
 		"tropics",
 		"docker",
 		"signer",
-        "file",
-        "rather",
-        "glory"
+		"file",
+		"rather",
+		"glory"
 	],
 	"3": [
 		"cucumber",
@@ -183,8 +183,8 @@
 		"family",
 		"orange",
 		"banana",
-        "massive",
-        "elephant"
+		"massive",
+		"elephant"
 	],
 	"4": [
 		"memorial",
@@ -207,7 +207,7 @@
 		"February",
 		"watermelon",
 		"polymorphism",
-        "naturaly"
+		"naturally"
 	],
 	"5": [
 		"acrimonious",
@@ -242,7 +242,7 @@
 		"vegetarian",
 		"encapsulation",
 		"polyamory",
-        "exceptionally"
+		"exceptionally"
 	],
 	"6": [
 		"amiability",
