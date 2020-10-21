@@ -133,7 +133,16 @@
 		"Fish",
 		"Man",
 		"Go",
-		"No"		
+		"No",
+		"ring",
+		"once",
+		"fire",
+		"with",
+		"ball",
+		"south",
+		"wish"
+
+
 	],
 	"2": [
 		"about",
@@ -268,7 +277,14 @@
 		"Sugar",
 		"Husband",
 		"Anna",
-		"Meme"			
+		"Meme",
+		"monkey",
+		"secret",
+		"story",	
+		"kindness",
+		"above",
+		"under",
+		"bottle"	
 	],
 	"3": [
 		"animal",
@@ -335,7 +351,16 @@
 		"technology",
 		"television",
 		"understanding",
-		"watermelon"
+		"watermelon",
+		"somebody",
+		"management",
+		"macaroni",
+		"radiation",
+		"photography",
+		"abelia",
+		"excitement",
+		"complicated"
+
 	],
 	"5": [
 		"acrimonious",
@@ -372,6 +397,7 @@
 		"refrigerator",
 		"unforgettable",
 		"vegetarian"
+		
 	],
 	"6": [
 		"acclimatization",
@@ -410,7 +436,16 @@
 		"supernumerary",
 		"teleportality",
 		"unconditionally",
-		"verisimilitude"
+		"verisimilitude",
+		"veterinarian",
+		"encyclopedia",
+		"undifferentiated",
+		"syllabification",
+		"dependability",
+		"reliability",
+		"beautifying",
+		"colonialism"
+
 	],
 	"7": [
 		"antidiscrimination",
@@ -436,6 +471,6 @@
 		"polypropenonitrile",
 		"Proletarianism",
 		"telecommunication",
-		"unconventionality"	
+		"unconventionality"
 	]
 }
