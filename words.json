@@ -145,7 +145,12 @@
 		"with",
 		"ball",
 		"south",
-		"wish"
+		"wish",
+		"note",
+		"hot",
+		"card",
+		"mouse",
+		"house"
 
 
 	],
@@ -289,7 +294,10 @@
 		"kindness",
 		"above",
 		"under",
-		"bottle"	
+		"bottle",
+		"color",
+		"issue"
+		
 	],
 	"3": [
 		"animal",
@@ -328,7 +336,8 @@
 		"romantic",
 		"September",
 		"tomorrow",
-		"video"			
+		"video",
+		"solitaire"
 	],
 	"4": [
 		"anybody",
@@ -364,7 +373,8 @@
 		"photography",
 		"abelia",
 		"excitement",
-		"complicated"
+		"complicated",
+		"condescending"
 
 	],
 	"5": [
