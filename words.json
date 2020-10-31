@@ -379,6 +379,8 @@
 	],
 	"5": [
 		"acrimonious",
+		"alphabetical",
+		"alphanumeric",
 		"appendectomy",
 		"biological",
 		"communication",
@@ -394,7 +396,8 @@
 		"exceptionally",
 		"figuratively",
 		"geometrical",
-		"hippopotamus",
+		"hippopotamus",	
+		"hypochondriac",
 		"ideology",
 		"imagination",
 		"indisputable",
@@ -403,6 +406,7 @@
 		"laparoscopy",
 		"mathematical",
 		"monopolistic",
+		"obligatory",
 		"organization",
 		"personality",
 		"polyamory",
@@ -410,6 +414,7 @@
 		"pronunciation",
 		"recognizable",
 		"refrigerator",
+		"topological",
 		"unforgettable",
 		"vegetarian"
 		
@@ -492,6 +497,7 @@
 		"Oversimplification",
 		"polypropenonitrile",
 		"Proletarianism",
+		"similitudinary",
 		"telecommunication",
 		"unconventionality"
 	]
