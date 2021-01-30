@@ -1,0 +1,19 @@
+p {
+    font-size: 50px;
+    font-family: Georgia;
+    text-align: center; 
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    font-family: Times New Roman;
+}
+
+button:hover {
+    color: brown;
+}
