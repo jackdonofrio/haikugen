@@ -1,7 +1,29 @@
 p {
     font-size: 50px;
-    font-family: Georgia;
+    font-family: monospace;
     text-align: center; 
+    /* margin: auto; */
+}
+
+p:hover {
+    color: gray;
+}
+
+p.title {
+    color: goldenrod;
+}
+
+p.title:hover {
+    color:chocolate
+}
+
+p.bottom_message {
+    font-family: monospace;
+    font-size: 12px;
+}
+
+p.bottom_message:hover {
+    color: #0366d6;
 }
 
 .wrapper {
@@ -17,3 +39,4 @@ button {
 button:hover {
     color: brown;
 }
+

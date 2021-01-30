@@ -4,14 +4,15 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 
     <body>
-        <p><a href="https://github.com/Jack1q/haikugen">haiku-gen</a></p>
-        <br>
+        <p class="title">haiku-gen</p>
         <p>{{  line_1  }}</p>
         <p>{{  line_2  }}</p>
         <p>{{  line_3  }}</p>
-        <br>
         <div class="wrapper">
             <button onclick="location.reload()">New Poem</button>
         </div>
     </body>
+    <p class="bottom_message">
+        Want to contribute words or code? Submit a <a href="https://github.com/Jack1q/haikugen">pull request</a>!
+    </p>
 </html>
